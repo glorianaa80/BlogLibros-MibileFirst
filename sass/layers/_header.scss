@@ -1,0 +1,25 @@
+.header {
+  border-bottom: 3px solid $nPrincipal;
+  text-align: center;
+}
+
+.header-logo {
+  height: 90px;
+  width: 136px;
+}
+
+.header-menu-icono {
+  height: 12px;
+  width: 19px;
+}
+
+.header-menu-text {
+  color: $nPrincipal;
+  display: inline;
+  font-family: 'Raleway', sans-serif;
+}
+
+.header-menu {
+  padding-top: 25px;
+  padding-bottom: 13px;
+}
