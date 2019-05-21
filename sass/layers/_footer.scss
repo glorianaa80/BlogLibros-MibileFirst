@@ -1,0 +1,39 @@
+.footer {
+  border-top: 3px solid $nPrincipal;
+}
+
+.logo-footer {
+  padding-top: 2%;
+  margin-left: 34%;
+  width: 91px;
+}
+
+.list-menu {
+  text-align: center;
+  list-style: none;
+}
+
+.list-menu-link-options {
+  color: $amSecundario;
+  font-family: "Raleway", sans-serif;
+  text-decoration: none; 
+}
+
+.list-menu-options + .list-menu-options {
+  margin-top: 2%;
+}
+
+.img-media-social {
+  width: 28px;
+  margin-left: 4%;
+}
+
+.media-social {
+  text-align: center;
+}
+
+.copyright {
+  margin-top: 2%;
+  margin-left: 45%;
+  width: 63px;
+}
